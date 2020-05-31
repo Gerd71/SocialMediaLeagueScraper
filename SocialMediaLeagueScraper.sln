@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SocialMediaLeagueScraper", "SocialMediaLeagueScraper.pyproj", "{63622314-EFC0-4F3D-9FFC-9502A2BAB030}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63622314-EFC0-4F3D-9FFC-9502A2BAB030}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63622314-EFC0-4F3D-9FFC-9502A2BAB030}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A2D4C81-C1ED-4D20-82A8-366B60529AD7}
+	EndGlobalSection
+EndGlobal
